@@ -4,6 +4,8 @@ isPage: true
 title: 链接
 ---
 
+- 简书 : [叫我颜先生](https://www.jianshu.com/u/f32e1b2bc5ad)
+
 <!-- 
 ```
 名称：{{ site.title }}
@@ -19,8 +21,3 @@ title: 链接
   </li>
   {% endfor %}
 </ul> -->
-<ul>
-  <li>
-  <p><a href="https://www.jianshu.com/u/f32e1b2bc5ad" target="_blank" >简书</a></p>
-  </li>
-</ul>
