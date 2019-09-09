@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
+title: LastJason Blog
+description: LastJason的个人博客
 keywords: TMaize,Blog,Java,Html,JavaScript
 author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+# footerText: 'Copyright © 2016 皖ICP备16016174号'
 
 # 留言配置, 不需要的话值设置为空，同时删除 # 菜单 配置项中的留言页面
 # 官网 https://www.bmob.cn
@@ -18,12 +18,12 @@ footerText: 'Copyright © 2016 皖ICP备16016174号'
 # email    String
 # content  String
 # website  String
-bmobApplicationId: 34f0386ac5bd50fd77fe82190af00faf
-bmobRestApiKey: 6f1419c800083315432f2df7dcb503d4
+bmobApplicationId: fdbfb281cff17d2bc036d9be5440960a
+bmobRestApiKey: 6c7ce99a6be33849cb0189d75598d016
 
 # 域名配置
 # baseUrl配置,如果网站部署在根目录下的目录中，请设置为 /目录名
-domainUrl: 'http://blog.tmaize.net'
+# domainUrl: 'http://blog.tmaize.net'
 baseUrl: ''
 
 # 菜单
@@ -45,8 +45,8 @@ menu:
 customPlugins:
   - use: true
     file: 'plugin-mta-stats.html'
-    sid: 500581966
-    cid: 500581972
+    sid: 500696527
+    cid: 500696534
   - use: true
     file: 'plugin-baidu-push.html'
   - use: true
